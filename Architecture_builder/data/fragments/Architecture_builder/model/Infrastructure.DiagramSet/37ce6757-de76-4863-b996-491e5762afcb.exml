@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Architecture_builder" version="4">
+  <OBJECT>
+    <ID name="Architecture_builder" mc="Infrastructure.DiagramSet" uid="37ce6757-de76-4863-b996-491e5762afcb"/>
+    <PID name="Architecture_builder" mc="Standard.Project" uid="24b6fb53-276a-42ee-98d6-f5b7826a0c8d"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Architecture_builder]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
